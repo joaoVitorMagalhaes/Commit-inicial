@@ -12,8 +12,7 @@ Versionamento de Código com Git e GitHub da [Digital Innovation One](https://ww
 
 | Aulas | Resumos |
 | ------|---------|
-| Memorizando Alterações no Repositório Local | [Artigos]
-() |
+| Memorizando Alterações no Repositório Local | [Artigos]() |
 
 '''
 git init
